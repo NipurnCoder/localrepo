@@ -1,13 +1,3 @@
-# This is my local Repo
-# DSA 
-# ProtFolio
-# Academics
-# Git Hub
-# Git Repo
-# Git Profile
-# Projects
-# LeetCode
-
 # My First Repository 🚀
 
 Welcome to my first GitHub repository!
@@ -36,6 +26,16 @@ I will continue adding new problems, improving old solutions, and learning bette
 > **Started with basic programming → Learned DSA → Practiced problems → Improved problem-solving → Building towards becoming a better software developer.**
 
 This repository represents where my coding journey started and how far I continue to grow.
+
+# This is my local Repo
+DSA 
+ProtFolio
+Academics
+Git Hub
+Git Repo
+Git Profile
+Projects
+LeetCode
 
 ## 💻 Language
 
